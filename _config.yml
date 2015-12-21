@@ -1,0 +1,28 @@
+name: JamesArthurFoto
+favicon: null
+layout_spectrum: 0.0771533539518714
+typography_spectrum: 0.7563590514473617
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7622294661123306
+  lightness: 0.29879172262735665
+  saturation: 0.8623898753430694
+  rhythmicContrast: 0.3709790869615972
+purpose: []
