@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[JamesArthurFoto]]></title>
+        <description><![CDATA[JamesArthurFoto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 18:10:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deep As the Ocean]]></title>
+            <description><![CDATA[<article><h1>Deep As the Ocean</h1><p>A Cinderella story on the high seas with the gorgeous Veronica Taylor wearing couture by Oliver Tolentino and Lloyd Klein.  Jewelry by Madhuri Parson New York. Photography by James Arthur Foto aboard Sailing Vessel MermaidResearch in Santa Monica Bay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec63ce41327c6be34b77d156afea7ad7d811a6c9.jpg"></article>]]></description>
+            <link>undefineddeep-as-the-ocean/index.html</link>
+            <guid isPermaLink="false">eb834908-5487-4d5e-ab45-67dc95f5b285</guid>
+            <pubDate>Mon, 21 Dec 2015 18:10:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
