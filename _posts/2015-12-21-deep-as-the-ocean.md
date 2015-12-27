@@ -6,28 +6,31 @@ inLanguage: null
 starred: true
 keywords: []
 description: A Cinderella story on the high seas with the gorgeous Veronica Taylor wearing couture by Oliver Tolentino and Lloyd Klein.  Jewelry by Madhuri Parson New York. Photography by James Arthur Foto aboard Sailing Vessel MermaidResearch in Santa Monica Bay.
-datePublished: '2015-12-21T18:10:06.820Z'
-dateModified: '2015-12-21T18:09:43.946Z'
+datePublished: '2015-12-27T22:10:09.329Z'
+dateModified: '2015-12-27T22:04:25.325Z'
 title: Deep As the Ocean
 author: []
+sourcePath: _posts/2015-12-21-deep-as-the-ocean.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-deep-as-the-ocean.md
-published: true
 url: deep-as-the-ocean/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d820955c-3683-469e-b712-c73967e7b0f1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a232891-1b1d-452e-b0e4-a562cff6c757.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9009c7f-bde5-4c5d-8dd6-6a2fd9e69217.jpg)
+Deep at the Ocean.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b770e57-8b05-49e8-a368-04627dc8e972.jpg)
+
+Fashion Editorial styled by and featuring Veronica Taylor shot at sea aboard SV Ellamore by James Arthur in Santa Monica Bay, CA.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32db1922a2f235f7167b790e3d4be0746e4e8c74.jpg)
+![This is a test](https://s3-us-west-2.amazonaws.com/the-grid-img/p/28e418480deaf70c5fb8c11c6c0f2d87168bdfb0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/06ba4636f019240e7477ff7ac8927247f420420b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d74d66e6-dd0f-444d-878b-b8f34c9ea565.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d20c97fc-359e-446d-aa7b-e6500b064dab.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b770e57-8b05-49e8-a368-04627dc8e972.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cc5f79b-b56a-4b6a-a7f4-1f9e0ff7daa9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afa15af4-8ec7-4df3-889a-e846238b23b7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/717fdb56-65a1-47d2-8fc0-06b8044434b5.jpg)
