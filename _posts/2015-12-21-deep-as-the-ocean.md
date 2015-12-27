@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: A Cinderella story on the high seas with the gorgeous Veronica Taylor wearing couture by Oliver Tolentino and Lloyd Klein.  Jewelry by Madhuri Parson New York. Photography by James Arthur Foto aboard Sailing Vessel MermaidResearch in Santa Monica Bay.
-datePublished: '2015-12-27T22:10:09.329Z'
-dateModified: '2015-12-27T22:04:25.325Z'
+datePublished: '2015-12-27T22:11:41.922Z'
+dateModified: '2015-12-27T22:11:27.898Z'
 title: Deep As the Ocean
 author: []
 sourcePath: _posts/2015-12-21-deep-as-the-ocean.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Deep at the Ocean.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b770e57-8b05-49e8-a368-04627dc8e972.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc49c1f3135c865a8f01a9a6004f81fbb122d3d1.jpg)
 
 Fashion Editorial styled by and featuring Veronica Taylor shot at sea aboard SV Ellamore by James Arthur in Santa Monica Bay, CA.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32db1922a2f235f7167b790e3d4be0746e4e8c74.jpg)
