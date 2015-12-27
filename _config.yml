@@ -1,7 +1,7 @@
 name: JamesArthurFoto
 favicon: null
 layout_spectrum: 0.08887
-typography_spectrum: 0.89009
+typography_spectrum: 0.92989
 title: Photography by James Arthur Smith
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#f0f0f0'
     - '#bababa'
   brandStrength: 0
-  lightness: 0.29879172262735665
-  saturation: 0.75
-  rhythmicContrast: 0.3709790869615972
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
